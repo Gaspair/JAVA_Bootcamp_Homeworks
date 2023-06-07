@@ -11,6 +11,8 @@ public class ComparingNumbers {
             double num2 = sc.nextDouble();
 
 
+
+
             String bigger;
 
             if(num1 > num2){

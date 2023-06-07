@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/First Homework/First Homework.iml" filepath="$PROJECT_DIR$/First Homework/First Homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_Bootcamp_Homeworks.iml" filepath="$PROJECT_DIR$/.idea/JAVA_Bootcamp_Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second Homework/Second Homework.iml" filepath="$PROJECT_DIR$/Second Homework/Second Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Third Class/Third Class.iml" filepath="$PROJECT_DIR$/Third Class/Third Class.iml" />
     </modules>
   </component>
 </project>
